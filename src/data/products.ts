@@ -36,7 +36,7 @@ export const products: Product[] = [
       material: "Pre-painted Steel",
       colors: "Blue / Green / Red / White / Beige / Borwn / Gray / Black (Special Color)"
     },
-    image: "/public/tilespan1.jpg",
+    image: "/tilespan1.jpg",
     inStock: true,
     featured: true,
   },
@@ -54,7 +54,7 @@ export const products: Product[] = [
       material: "Galvanized Steel",
       colors: "Blue, Green, White",
     },
-    image: "/public/rib1.png",
+    image: "/rib1.png",
     inStock: true,
   },
   {
@@ -70,7 +70,7 @@ export const products: Product[] = [
       length: "2.4m",
       material: "Pre-painted Steel",
     },
-    image: "/public/cor1.jpg",
+    image: "/cor1.jpg",
     inStock: true,
   },
   // Steel Deck

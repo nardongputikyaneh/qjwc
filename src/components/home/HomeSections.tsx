@@ -7,37 +7,37 @@ const categories = [
   {
     name: "Roofing",
     description: "Tilespan, Ribtype & Corrugated",
-    image: "/public/tilespan1.jpg",
+    image: "/tilespan1.jpg",
     href: "/products?category=roofing",
   },
   {
     name: "Steel Deck",
     description: "Premium steel deck panels",
-    image: "/public/steeldeck1.png",
+    image: "/steeldeck1.png",
     href: "/products?category=steel-deck",
   },
   {
     name: "Ficem Board",
     description: "Durable fiber cement boards",
-    image: "/public/ficem3.jpg",
+    image: "/ficem3.jpg",
     href: "/products?category=ficem-board",
   },
   {
     name: "Gypsum Board",
     description: "Quality drywall solutions",
-    image: "/public/gypsum4.jpg",
+    image: "/gypsum4.jpg",
     href: "/products?category=gypsum-board",
   },
   {
     name: "C Purlins",
     description: "Structural steel purlins",
-    image: "/public/cpur2.jpg",
+    image: "/cpur2.jpg",
     href: "/products?category=c-purlins",
   },
   {
     name: "Plywood",
     description: "Marine & ordinary plywood",
-    image: "/public/plywood1.jpg",
+    image: "/plywood1.jpg",
     href: "/products?category=plywood",
   },
 ];
